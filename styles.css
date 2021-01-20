@@ -86,7 +86,7 @@
     flex-direction: column;
     text-align: center;
     align-items: center;
-    height: 65vh;
+    height: 60vh;
 }
 
 .homepage-button {
@@ -116,7 +116,7 @@
 
 .facilities-div {
     width: 100vw;
-    height: 65vh;
+    height: 60vh;
     overflow: scroll;
     text-align: center;
 }
@@ -164,7 +164,7 @@
 
 .onas-div {
     width: 100vw;
-    height: 77vh;
+    height: 70vh;
     overflow: scroll;
     text-align: center;
 }

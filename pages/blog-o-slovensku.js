@@ -9,7 +9,7 @@ const slovenskoBlog = () => {
                 <title>Blog o Slovensku</title>
                 <meta name="description" content="Zaujímate sa o Slovensko? Tu nájdete rozličné články či už na témy ako najlepšie hotely v meste, najkrajšie miesta na Slovensku alebo zaujímavosti o Slovensku."></meta>
             </Head>
-            <div className="onas-div">
+            <div className="facilities-div">
                 <h2 className="onas-heading">Blog</h2>
                 <BlogFacility link="blog/najlepsie-hotely-v-trnave" heading="Najlepšie hotely v Trnave" city="Plánujete cestu do Trnavy a neviete kde sa ubytovať? Zistite ktoré sú najlepšie hotely v Trnave" />
                 <BlogFacility link="blog/najlepsie-hotely-v-bratislave" heading="Najlepšie hotely v Bratislave" city="Cestujete do Bratislavy a hľadáte vhodný hotel? Pomocou našej stránky nájdete najlepšie hotely v Bratislave" />
