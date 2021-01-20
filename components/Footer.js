@@ -12,8 +12,8 @@ const Footer = () => {
                 <Link href="o-slovensku"><a className="link-footer">O Slovensku</a></Link>
             </div>
             <div className="footer-div">
-                <Link href="/"><a className="link-footer">Podmineky</a></Link>
-                <Link href="/"><a className="link-footer">Osobné údaje</a></Link>
+                <Link href="podmienky-pouzivania"><a className="link-footer">Podmineky používania</a></Link>
+                <Link href="ochrana-osobnych-udajov"><a className="link-footer">Osobné údaje</a></Link>
             </div>
         </div>
     )
