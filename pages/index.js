@@ -12,10 +12,10 @@ const index = () => {
                 <meta name="description" content="Najlepšie destinácie na Slovensku? Ak plánujete cestu po Slovensku, nájdite si pomocou našej stránky tie najkrajšie miesta na Slovensku. Nájdete tu slovenské hotely, slovenské reštaurácie, slovenské bary ale aj slovenské kaviarne. Taktiež sa dozviete základné informácie o najznámejších slovenských mestách."></meta>
             </Head>
             <div className="main-homepage-div">
-                <Link href="najlepsie-hotely-na-slovensku"><button className="homepage-button">Hotely</button></Link>
-                <Link href="najlepsie-restauracie-na-slovensku"><button className="homepage-button">Reštaurácie</button></Link>
-                <Link href="najlepsie-kaviarne-na-slovensku"><button className="homepage-button">Kaviarne</button></Link>
-                <Link href="najlepsie-bary-na-slovensku"><button className="homepage-button">Bary</button></Link>
+                <Link href="najlepsie-hotely-na-slovensku"><a className="homepage-button">Hotely</a></Link>
+                <Link href="najlepsie-restauracie-na-slovensku"><a className="homepage-button">Reštaurácie</a></Link>
+                <Link href="najlepsie-kaviarne-na-slovensku"><a className="homepage-button">Kaviarne</a></Link>
+                <Link href="najlepsie-bary-na-slovensku"><a className="homepage-button">Bary</a></Link>
             </div>
         </Layout>
     )

@@ -99,6 +99,11 @@
     cursor: pointer;
     font-family: regular;
     font-size: 3vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: black;
+    text-decoration: none;
 }
 
 .homepage-button:active {
@@ -127,6 +132,8 @@
     margin: auto;
     margin-top: 3vh;
     cursor: pointer;
+    color: black;
+    text-decoration: none;
 }
 
 .facility-heading {
@@ -220,6 +227,8 @@
     margin: auto;
     margin-top: 3vh;
     cursor: pointer;
+    color: black;
+    text-decoration: none;
 }
 
 /* Media Queries */
