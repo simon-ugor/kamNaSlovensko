@@ -9,7 +9,7 @@ const penzionpko = () => {
 			<title>Penzion PKO</title>
             <meta name="description" content="Jeden z našich favoritov v destinácii Nitra. Penzión PKO Nitra sa nachádza v pokojnej lokalite vedľa mestského parku v meste Nitra."></meta>
 		</Head>
-		<div className="onas-div">
+		<div className="facilities-div">
 			<h2 className="onas-heading">Penzion PKO</h2>
 			<h2 className="onas-subheading">Nitra</h2>
 			<p className="onas-p">Jeden z našich favoritov v destinácii Nitra. Penzión PKO Nitra sa nachádza v pokojnej lokalite vedľa mestského parku v meste Nitra. Okrem vlastnej reštaurácie a baru ponúka izby s TV. K dispozícii je bezplatné Wi-Fi.Reštaurácia penziónu PKO Nitra je zariadená drevenými stropmi a dreveným nábytkom v tradičnom štýle. Vychutnať si tu môžete jedlá slovenskej kuchyne a výber teplých a studených nápojov.Penzión je situovaný len 300 metrov od nitrianskeho hradu a ponúka vám izby s vlasnou kúpeľňou. V každej jednotke sa nachádza dlažba a chladnička.Necelých 300 metrov od penziónu sa môžete prejsť po pešej zóne, kde sa nachádzajú bary, kaviarne, reštaurácie a Divadlo Andreja Bagara. Na mieste nájdete bezplatné verejné parkovisko.</p>

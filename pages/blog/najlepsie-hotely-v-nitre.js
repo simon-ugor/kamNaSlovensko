@@ -9,7 +9,7 @@ const najlepsieHotelyvNitre = () => {
                 <title>Najlepšie hotely v Nitre</title>
                 <meta name="description" content="Je cesta do Nitry súčasť Vašich plánov? prečítajte si tento článok a dozviete sa základné informácie o Nitre a aké sú najlepšie hotely v Nitre."></meta>
             </Head>
-			<div className="onas-div">
+			<div className="facilities-div">
 				<h2 className="onas-heading">Najlepšie hotely v Nitre</h2>
 				<p className="onas-p">Plánujete cestu do Nitry a neviete kde sa ubytovať? Zistite ktoré sú najlepšie hotely v Nitre. Poskytujeme výber tých najlepších hotelov v Nitre, stačí kliknúť</p>
 				<Link href="/najlepsie-hotely-na-slovensku"><p className="link-footer-naspat">sem</p></Link>

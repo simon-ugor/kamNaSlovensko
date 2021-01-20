@@ -9,7 +9,7 @@ const garnighotelzilina = () => {
 			<title>Garni G Hotel</title>
             <meta name="description" content="Garni G Hotel Žilina sa nachádza na okraji Žiliny. Najbližšia autobusová zastávka sa nachádza 200 metrov od hotela a centrum mesta je vzdialené 3,5 km."></meta>
 		</Head>
-		<div className="onas-div">
+		<div className="facilities-div">
 			<h2 className="onas-heading">Garni G Hotel</h2>
 			<h2 className="onas-subheading">Žilina</h2>
 			<p className="onas-p">Garni G Hotel Žilina sa nachádza na okraji Žiliny. Najbližšia autobusová zastávka sa nachádza 200 metrov od hotela a centrum mesta je vzdialené 3,5 km. Miestny futbalový štadión je vzdialený 2,4 km. V celom hoteli môžete využívať bezplatné Wi-Fi pripojenie.Každá z priestranných izieb v Garni G Hotel Žilina má vlastnú kúpeľňu a TV. Väčšina izieb ponúka aj priestor na posedenie. Všetky izby sú zariadené moderne a prakticky svetlým dreveným nábytkom.Raňajky formou bufetu si môžete vychutnať v bare. K dispozícii sú aj banketové priestory. Hotel ponúka súkromné parkovisko.Žilinské letisko je situované 14,2 km od hotela.</p>

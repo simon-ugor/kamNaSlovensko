@@ -9,7 +9,7 @@ const hotelambassador = () => {
 			<title>Hotel Ambassador</title>
             <meta name="description" content="Jeden z bestsellerov v Košiciach. Rodinný hotel Ambassador sa nachádza priamo v historickom centre Košíc. Ponúka štýlovú reštauráciu, trendovú kaviareň a wellness centrum."></meta>
 		</Head>
-		<div className="onas-div">
+		<div className="facilities-div">
 			<h2 className="onas-heading">Hotel Ambassador</h2>
 			<h2 className="onas-subheading">Košice</h2>
 			<p className="onas-p">Jeden z bestsellerov v Košiciach. Rodinný hotel Ambassador sa nachádza priamo v historickom centre Košíc. Ponúka štýlovú reštauráciu, trendovú kaviareň a wellness centrum. K dispozícii je vám bezplatné Wi-Fi.Všetky izby sú moderné a klimatizované. Nájdete v nich satelitnú TV.K dispozícii sú vám aj zasadacie a konferenčné priestory.Hoteloví hostia môžu v reštaurácii využiť 10 % zľavu.</p>

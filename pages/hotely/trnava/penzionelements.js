@@ -9,7 +9,7 @@ const penzionelements = () => {
 			<title>Penzión Elements</title>
             <meta name="description" content="Jeden z bestsellerov v Trnave. Penzión Elements sa nachádza v Trnave a ponúka reštauráciu."></meta>
 		</Head>
-		<div className="onas-div">
+		<div className="facilities-div">
 			<h2 className="onas-heading">Penzión Elements</h2>
 			<h2 className="onas-subheading">Trnava</h2>
 			<p className="onas-p">Jeden z bestsellerov v Trnave. Penzión Elements sa nachádza v Trnave a ponúka reštauráciu. V klimatizovaných izbách s výhľadom na mesto je k dispozícii šatníková skriňa a bezplatné Wi-Fi.Každá izba v penzióne je vybavená písacím stolom, TV s plochou obrazovkou a má súkromnú kúpeľňu.V Penzióne Elements sa podávajú raňajky à la carte.Penzión je vzdialený 43 km od Piešťan a 45 km od Nitry. Letisko Piešťany, ktoré je k Penziónu Elements najbližšie, sa nachádza vo vzdialenosti 32 km.</p>

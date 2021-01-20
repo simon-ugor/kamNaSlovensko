@@ -9,7 +9,7 @@ const hotelcrystal = () => {
 			<title>Hotel Crystal</title>
             <meta name="description" content="Hotel Crystal sa nachádza v Košiciach, 1,9 km od Dómu sv. Alžbety a 3,6 km od Steel Arény. Ponúka bar, bezplatné Wi-Fi vo všetkých priestoroch a bezplatné súkromné parkovisko pre hostí, ktorí prídu autom."></meta>
 		</Head>
-		<div className="onas-div">
+		<div className="facilities-div">
 			<h2 className="onas-heading">Hotel Crystal</h2>
 			<h2 className="onas-subheading">Košice</h2>
 			<p className="onas-p">Hotel Crystal sa nachádza v Košiciach, 1,9 km od Dómu sv. Alžbety a 3,6 km od Steel Arény. Ponúka bar, bezplatné Wi-Fi vo všetkých priestoroch a bezplatné súkromné parkovisko pre hostí, ktorí prídu autom. Dom umenia, Hrnčiarska ulica a Spoločenský pavilón sú od ubytovania vzdialené približne 2,2 km. Ubytovanie má k dispozícii recepciu s nepretržitou prevádzkou, službu organizácie výletov a predaj vstupeniek.Všetky izby sú vybavené káblovou TV s plochou obrazovkou, chladničkou, sprchovacím kútom, sušičom na vlasy a písacím stolom. V izbách nájdete šatníkovú skriňu a súkromnú kúpeľňu.V ubytovaní sa podávajú raňajky formou bufetu alebo americké raňajky.Bankov je od ubytovania vzdialený 6 km a Múzeum letectva Košice sa nachádza vo vzdialenosti 1,8 km. Medzinárodné letisko Košice, ktoré je k ubytovaniu najbližšie, je vzdialené 8 km.</p>

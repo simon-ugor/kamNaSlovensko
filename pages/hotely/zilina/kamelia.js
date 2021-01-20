@@ -9,7 +9,7 @@ const kamelia = () => {
 			<title>Kamélia</title>
             <meta name="description" content="Penzión Kamélia sa nachádza v Žiline, 5 km od Budatínskeho hradu. Ponúka ubytovanie s reštauráciou, bezplatným súkromným parkoviskom, barom a terasou."></meta>
 		</Head>
-		<div className="onas-div">
+		<div className="facilities-div">
 			<h2 className="onas-heading">Kamélia</h2>
 			<h2 className="onas-subheading">Žilina</h2>
 			<p className="onas-p">Penzión Kamélia sa nachádza v Žiline, 5 km od Budatínskeho hradu. Ponúka ubytovanie s reštauráciou, bezplatným súkromným parkoviskom, barom a terasou. V tomto 3-hviezdičkovom hoteli je k dispozícii aj izbová služba.Izby sú vybavené šatníkovou skriňou. Súčasťou každej izby je písací stôl a TV s plochou obrazovkou.Každé ráno sa v ubytovaní podávajú raňajky formou bufetu.</p>

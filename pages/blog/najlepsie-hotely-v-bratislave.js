@@ -9,7 +9,7 @@ const najlepsieHotelyvBratislave = () => {
                 <title>Najlepšie hotely v Bratislave</title>
                 <meta name="description" content="Ak je cesta do Bratislavy súčasť Vašich plánov, prečítajte si tento článok a dozviete sa základné informácie o Bratislava a aké sú najlepšie hotely v Bratislave."></meta>
             </Head>
-			<div className="onas-div">
+			<div className="facilities-div">
 				<h2 className="onas-heading">Najlepšie hotely v Bratislave</h2>
 				<p className="onas-p">Plánujete cestu do Bratislavy a neviete kde sa ubytovať? Zistite ktoré sú najlepšie hotely v Bratislave. Poskytujeme výber tých najlepších hotelov v Bratislave, stačí kliknúť</p>
 				<Link href="/najlepsie-hotely-na-slovensku"><p className="link-footer-naspat">sem</p></Link>

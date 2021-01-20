@@ -9,7 +9,7 @@ const hotelpremier = () => {
 			<title>Hotel Premier</title>
             <meta name="description" content="Jeden z našich favoritov v destinácii Trnava. Hotel Premier sa nachádza v pokojnej časti centra Trnavy, hneď vedľa synagógy a len 200 metrov od Trojičného námestia."></meta>
 		</Head>
-		<div className="onas-div">
+		<div className="facilities-div">
 			<h2 className="onas-heading">Hotel Premier</h2>
 			<h2 className="onas-subheading">Trnava</h2>
 			<p className="onas-p">Jeden z našich favoritov v destinácii Trnava. Hotel Premier sa nachádza v pokojnej časti centra Trnavy, hneď vedľa synagógy a len 200 metrov od Trojičného námestia. Okrem ubytovania ponúka aj kaviareň s terasou, recepciu s nepretržitou prevádzkou a bezplatné parkovisko. V celej budove môžete zadarmo využívať Wi-Fi pripojenie na internet.Všetky ubytovacie jednotky hotela Premier sú vybavené káblovou TV, rádiom, telefónom, chladničkou a písacím stolom. Súčasťou každej je kúpeľňa so sprchovacím kútom alebo s vaňou a bezplatnými toaletnými potrebami. Suita má aj obývaciu izbu, kozub a terasu.Nákupné centrum City Arena je vzdialené do 300 metrov a vodný park Relax Aqua a Spa je vzdialený do do 7-minút chôdze.Autobusová i železničná stanica sa nachádzajú vo vzdialenosti 1,5 km. Cesta autom z hotela do Bratislavy vám potrvá 30 minút a Letisko M. R. Štefánika je vzdialené 37 km.</p>

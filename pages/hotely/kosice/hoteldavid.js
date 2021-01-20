@@ -9,7 +9,7 @@ const hoteldavid = () => {
 			<title>Hotel David</title>
             <meta name="description" content="Hotel Dávid sa nachádza v Košiciach, len pár krokov od jazera. Ponúka ubytovanie v izbách a suitách, recepciu s nepretržitou prevádzkou a bezplatné Wi-Fi pripojenie na internet v celom hoteli."></meta>
 		</Head>
-		<div className="onas-div">
+		<div className="facilities-div">
 			<h2 className="onas-heading">Hotel David</h2>
 			<h2 className="onas-subheading">Košice</h2>
 			<p className="onas-p">Hotel Dávid sa nachádza v Košiciach, len pár krokov od jazera. Ponúka ubytovanie v izbách a suitách, recepciu s nepretržitou prevádzkou a bezplatné Wi-Fi pripojenie na internet v celom hoteli. Priamo na mieste môžete zdarma parkovať na súkromnom parkovisku.Všetky izby a suity v hoteli Dávid sú vybavené chladničkou a TV s plochou obrazovkou. Ich súčasťou je i súkromná kúpeľňa so sprchovacím kútom.V hotelovej reštaurácii Gladiátor sa podávajú rôzne jedlá, vrátane pokrmov arménskej kuchyne. V letnom období môžete stolovať na terase.Na mieste nájdete tiež detské ihrisko a konferenčné priestory. Tenisový kurt je k dispozícii za príplatok.V okolí sa môžete venovať rôznym aktivitám, napríklad cyklistike a pešej turistike.</p>

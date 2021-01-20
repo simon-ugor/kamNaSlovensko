@@ -9,7 +9,7 @@ const boutiquehotelbristol = () => {
 			<title>Boutique Hotel Bristol</title>
             <meta name="description" content="Jeden z našich favoritov v destinácii Košice. Ubytovacie zariadenie Boutique Hotel Bristol je jedným z najluxusnejších hotelov v historickom centre Košíc."></meta>
 		</Head>
-		<div className="onas-div">
+		<div className="facilities-div">
 			<h2 className="onas-heading">Boutique Hotel Bristol</h2>
 			<h2 className="onas-subheading">Košice</h2>
 			<p className="onas-p">Jeden z našich favoritov v destinácii Košice. Ubytovacie zariadenie Boutique Hotel Bristol je jedným z najluxusnejších hotelov v historickom centre Košíc, ktorý zaujme svojou architektúrou a výhľadom na Dóm sv. Alžbety z terasy.Izby a verejné priestory sú zariadené v zemitých farebných odtieňoch. V izbách nájdete pohodlné postele a luxusné toaletné potreby značky L'Occitane.Každé ráno si hostia môžu vychutnať raňajky formou bufetu, a pri príchode dostanú poukážku na uvítací nápoj. Reštaurácia Allegro ponúka vynikajúce pokrmy miestnej a medzinárodnej kuchyne. V lobby bare sa podáva široký výber nápojov.V celej budove je k dispozícii bezplatné pripojenie na internet. Recepcia je otvorená 24 hodín denne. Hotel ponúka moderné konferenčné miestnosti.</p>

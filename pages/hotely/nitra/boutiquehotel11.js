@@ -9,7 +9,7 @@ const boutiquehotel11 = () => {
 			<title>Boutique HOTEL 11</title>
             <meta name="description" content="Jeden z bestsellerov v Nitre. Boutique Hotel 11 má výhodnú polohu v historickom centre Nitry a ponúka recepciu s nepretržitou prevádzkou a terasu s výhľadom mesto a Nitriansky hrad."></meta>
 		</Head>
-		<div className="onas-div">
+		<div className="facilities-div">
 			<h2 className="onas-heading">Boutique HOTEL 11</h2>
 			<h2 className="onas-subheading">Nitra</h2>
 			<p className="onas-p">Jeden z bestsellerov v Nitre. Boutique Hotel 11 má výhodnú polohu v historickom centre Nitry a ponúka recepciu s nepretržitou prevádzkou a terasu s výhľadom mesto a Nitriansky hrad. Každá izba poskytuje TV s plochou obrazovkou, pracovný stôl, bezplatné Wi-Fi pripojenie na internet a kúpeľňu. Niektoré suity majú tiež vaňu a pohovku.Navštíviť môžete priestranný lobby bar, salónik s ponukou cigár a terasu s panoramatickým výhľadom na mesto.V jedálni sa podáva raňajkový bufet.Boutique HOTEL 11 sa nachádza len 50 metrov od centra mesta a 600 metrov od Nitrianskeho hradu. Najbližšia reštaurácia je vzdialená 200 metrov.</p>

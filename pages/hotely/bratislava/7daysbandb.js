@@ -9,7 +9,7 @@ const daysbandb = () => {
 				<title>7Days B and B</title>
                 <meta name="description" content="7Days B and B je jeden z našich favoritov v destinácii Bratislava. Ubytovacie zariadenie 7Days B&B sa nachádza v Bratislave, 1,3 km od Michalskej brány."></meta>
 			</Head>
-			<div className="onas-div">
+			<div className="facilities-div">
 				<h2 className="onas-heading">7Days B and B</h2>
 				<h2 className="onas-subheading">Bratislava</h2>
 				<p className="onas-p">Jeden z našich favoritov v destinácii Bratislava. Ubytovacie zariadenie 7Days B and B sa nachádza v Bratislave, 1,3 km od Michalskej brány a ponúka ubytovanie s reštauráciou, súkromným parkoviskom a barom. Všetky ubytovacie jednotky v tomto 3-hviezdičkovom hoteli majú bezplatné Wi-Fi a výhľad na mesto. V hoteli sa nachádza aj snack bar, v ktorom si môžu hostia vychutnať nápoje.Všetky izby majú priestor na posedenie, káblovú TV s plochou obrazovkou a súkromnú kúpeľňu so sušičom vlasov a sprchovacím kútom. K vybaveniu všetkých ubytovacích jednotiek patrí písací stôl a rýchlovarná kanvica.V ubytovaní 7Days B&B sa podávajú kontinentálne raňajky alebo raňajky formou bufetu.Bratislavský hrad je od ubytovania vzdialený 1,3 km a výstavisko Incheba 3,7 km. Letisko Bratislava, ktoré je kubytovaniu najbližšie, je vzdialené 7 km. Letiskový transfer je k dispozícii za poplatok.</p>

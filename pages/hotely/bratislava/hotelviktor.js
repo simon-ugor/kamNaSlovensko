@@ -9,7 +9,7 @@ const hotelviktor = () => {
 			<title>Hotel Viktor</title>
             <meta name="description" content="Jeden z našich favoritov v destinácii Bratislava. Tento hotel je vzdialený jeden kilometer od železničnej stanice Petržalka a 3 km od centra Bratislavy."></meta>
 		</Head>
-		<div className="onas-div">
+		<div className="facilities-div">
 			<h2 className="onas-heading">Hotel Viktor</h2>
 			<h2 className="onas-subheading">Bratislava</h2>
 			<p className="onas-p">Jeden z našich favoritov v destinácii Bratislava. Tento hotel je vzdialený jeden kilometer od železničnej stanice Petržalka a 3 km od centra Bratislavy. Ponúka vám klimatizované izby so satelitnou LCD TV, trezorom a súkromnou kúpeľňou.Priestranné a farebne zariadené izby hotela Viktor majú prístup na čipovú kartu a karty možno použiť aj na platenie v reštaurácii. Každé ráno sú pre vás pripravené raňajky.Hotel Viktor je vzdialený 11 km od Letiska M. R. Štefánika v Bratislave.</p>

@@ -9,7 +9,7 @@ const hotelchateaugbelany = () => {
 			<title>Hotel Château Gbeľany</title>
             <meta name="description" content="Hotel Château Gbeľany sa nachádza v obci Gbeľany v Žilinskom kraji, 3,5 km od hradu Strečno. Má k dispozícii gril a vírivku."></meta>
 		</Head>
-		<div className="onas-div">
+		<div className="facilities-div">
 			<h2 className="onas-heading">Hotel Château Gbeľany</h2>
 			<h2 className="onas-subheading">Žilina</h2>
 			<p className="onas-p">Hotel Château Gbeľany sa nachádza v obci Gbeľany v Žilinskom kraji, 3,5 km od hradu Strečno. Má k dispozícii gril a vírivku. Priamo na mieste môžete navštíviť reštauráciu. Na mieste môžete využívať aj bezplatné súkromné parkovisko.Všetky izby majú TV s plochou obrazovkou a varnú kanvicu. Vo všetkých izbách je k dispozícii súkromná kúpeľňa. K ďalšiemu vybaveniu patria župany, papuče a bezplatné toaletné potreby. K dispozícii je bezplatné Wi-Fi pripojenie na internet v celom objekte.Recepcia ubytovacieho zariadenia je otvorená 24 hodín denne.V okolí sa môžete venovať rôznym aktivitám, napríklad lyžovaniu a cyklistike. Mesto Žilina je vzdialené 10 minút jazdy autom a do obce Terchová sa dostanete autom za 15 minút.</p>

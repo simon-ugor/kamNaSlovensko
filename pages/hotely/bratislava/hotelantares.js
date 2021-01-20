@@ -9,7 +9,7 @@ const hotelantares = () => {
 			<title>Hotel Antares</title>
             <meta name="description" content="Jeden z bestsellerov v Bratislave. Hotel Antares sa nachádza v pokojnej rezidenčnej štvrti Bratislavy, 10 minút pešo od Starého Mesta."></meta>
 		</Head>
-		<div className="onas-div">
+		<div className="facilities-div">
 			<h2 className="onas-heading">Hotel Antares</h2>
 			<h2 className="onas-subheading">Bratislava</h2>
 			<p className="onas-p">Jeden z bestsellerov v Bratislave. Hotel Antares sa nachádza v pokojnej rezidenčnej štvrti Bratislavy, 10 minút pešo od Starého Mesta. Ponúka vám Wi-Fi pripojenie na internet, vírivku, saunu, záhradu a garáž.Všetky klimatizované izby sú moderne zariadené a vybavené satelitnou TV a minibarom. K dispozícii je vám moderná súkromná kúpeľňa so sušičom vlasov a toaletnými potrebami.Na požiadanie a za príplatok si môžete objednať stravovanie.Relaxujte v zariadenej záhrade alebo si zašportujte vo fitnescentre.</p>

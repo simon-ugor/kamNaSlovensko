@@ -9,7 +9,7 @@ const hotelrokoko = () => {
 			<title>Hotel Rokoko</title>
             <meta name="description" content="Jeden z bestsellerov v Košiciach. Hotel Rokoko sa nachádza neďaleko centra Košíc a ponúka vám štýlové izby, vynikajúce jedlá, bezplatné Wi-Fi pripojenie na internet a bezplatné strážené parkovisko na mieste."></meta>
 		</Head>
-		<div className="onas-div">
+		<div className="facilities-div">
 			<h2 className="onas-heading">Hotel Rokoko</h2>
 			<h2 className="onas-subheading">Košice</h2>
 			<p className="onas-p">Jeden z bestsellerov v Košiciach. Hotel Rokoko sa nachádza neďaleko centra Košíc a ponúka vám štýlové izby, vynikajúce jedlá, bezplatné Wi-Fi pripojenie na internet a bezplatné strážené parkovisko na mieste. Vo všetkých izbách nájdete antialergické matrace a vankúše, satelitnú LCD TV so 72 kanálmi (vrátane medzinárodných) a DVD prehrávačom.Súčasťou elegantnej hotelovej reštaurácie je príjemná záhradná terasa.Autobusové zastávky na Národnom námestí (linky 16, 29, 71 a 72) sa nachádzajú len 50 metrov od hotela Rokoko.</p>

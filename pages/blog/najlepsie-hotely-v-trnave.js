@@ -9,7 +9,7 @@ const najlepsieHotelyvTrnave = () => {
                 <title>Najlepšie hotely v Trnava</title>
                 <meta name="description" content="Plánujete cestu do Trnavy? Prečítajte si náš článok a dozviete sa základné informácie o Trnave a aké sú najlepšie hotely v Trnave."></meta>
             </Head>
-			<div className="onas-div">
+			<div className="facilities-div">
 				<h2 className="onas-heading">Najlepšie hotely v Trnave</h2>
 				<p className="onas-p">Plánujete cestu do Trnavy a neviete kde sa ubytovať? Zistite ktoré sú najlepšie hotely v Trnave. Poskytujeme výber tých najlepších hotelov v Trnave, stačí kliknúť</p>
 				<Link href="/najlepsie-hotely-na-slovensku"><p className="link-footer-naspat">sem</p></Link>

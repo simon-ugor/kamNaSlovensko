@@ -9,7 +9,7 @@ const pensionpetit = () => {
 			<title>Pension Petit</title>
             <meta name="description" content="Jeden z bestsellerov v Bratislave. Penzión Petit sa nachádza v centre Bratislavy, vedľa Prezidentského paláca a 300 metrov od Michalskej brány v Starom Meste."></meta>
 		</Head>
-		<div className="onas-div">
+		<div className="facilities-div">
 			<h2 className="onas-heading">Pension Petit</h2>
 			<h2 className="onas-subheading">Bratislava</h2>
 			<p className="onas-p">Jeden z bestsellerov v Bratislave. Penzión Petit sa nachádza v centre Bratislavy, vedľa Prezidentského paláca a 300 metrov od Michalskej brány v Starom Meste. Nájdete v ňom kaviareň s barom LePetit a bezplatné Wi-Fi pripojenie na internet v kaviarni a vo vstupnej hale.Každá ubytovacia jednotka má súkromnú kúpeľňu, rýchlovarnú kanvicu a káblovú TV. Uteráky a posteľná bielizeň sú k dispozícii.K Bratislavskému hradu, Dunaju a všetkým ďalším turistickým zaujímavostiam sa dostanete pešo.Verejnou dopravou sa do penziónu Petit dostanete z hlavnej bratislavskej stanice a z autobusovej stanice Mlynské Nivy za 10 minút.Parkovanie je k dispozícii 200 metrov od penziónu. Na požiadanie a za príplatok vám penzión zabezpečí parkovacie miesto.</p>

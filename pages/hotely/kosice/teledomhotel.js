@@ -9,7 +9,7 @@ const teledomhotel = () => {
 			<title>TeleDom Hotel</title>
             <meta name="description" content="Jeden z bestsellerov v Košiciach. Hotel TeleDom sa nachádza v centre mesta Košice, iba 200 metrov od Dómu svätej Alžbety."></meta>
 		</Head>
-		<div className="onas-div">
+		<div className="facilities-div">
 			<h2 className="onas-heading">TeleDom Hotel</h2>
 			<h2 className="onas-subheading">Košice</h2>
 			<p className="onas-p">Jeden z bestsellerov v Košiciach. Hotel TeleDom sa nachádza v centre mesta Košice, iba 200 metrov od Dómu svätej Alžbety. Ponúka bezplatné pripojenie na internet vo všetkých izbách.Hostia hotela TeleDom si môžu vychutnať raňajkový bufet v hotelovej reštaurácii, v ktorej sa podávajú i pokrmy medzinárodnej kuchyne a miestne špeciality.Všetky pohodlne zariadené izby sú vybavené minibarom a satelitnou TV. V každej modernej kúpeľni sa nachádza sušič vlasov. Hostia si môžu vybrať medzi ubytovaním vo fajčiarskej a nefajčiarskej izbe.Celý hotel je bezbariérový.Hotel TeleDom sa nachádza v blízkosti mnohých pamiatok, medzi ktoré patrí i Mestský park. Košická železničná stanica je vzdialená 2 km.</p>

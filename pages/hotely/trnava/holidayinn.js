@@ -9,7 +9,7 @@ const holidayinn = () => {
 			<title>Holiday Inn</title>
             <meta name="description" content="Hotel Holiday Inn sa nachádza oproti Trnavskej univerzite, len pár metrov od katedrály sv. Jána Krstiteľa. Ponúka vám reštauráciu, 2 bary a bezplatný vstup do kúpeľov s 2 vírivkami a saunou."></meta>
 		</Head>
-		<div className="onas-div">
+		<div className="facilities-div">
 			<h2 className="onas-heading">Holiday Inn</h2>
 			<h2 className="onas-subheading">Trnava</h2>
 			<p className="onas-p">Hotel Holiday Inn sa nachádza oproti Trnavskej univerzite, len pár metrov od katedrály sv. Jána Krstiteľa. Ponúka vám reštauráciu, 2 bary a bezplatný vstup do kúpeľov s 2 vírivkami a saunou.V priestranných izbách hotela Holiday Inn Trnava môžete využívať veľké kúpeľne so sprchovacím kútom a bezplatné Wi-Fi pripojenie na internet. V najlepších izbách máte k dispozícii dennú tlač, priestrannú obývaciu izbu s rozkladacou pohovkou a TV s plochou obrazovkou.V štýlovo zariadenej reštaurácii Culinaria si vyberte z ponuky pokrmov slovenskej a medzinárodnej kuchyne a pokochajte sa výhľadom na hotelový zelený dvor. Navštívte aj 2 bary, útulný koňakový bar a štýlový lobby bar.</p>

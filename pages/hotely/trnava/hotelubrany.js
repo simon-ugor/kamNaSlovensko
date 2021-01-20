@@ -9,7 +9,7 @@ const hotelubrany = () => {
 			<title>Hotel u Brány</title>
             <meta name="description" content="Hotel u Brány sa nachádza v Trnave a ponúka reštauráciu a bezplatné Wi-Fi. Súčasťou každej izby je balkón."></meta>
 		</Head>
-		<div className="onas-div">
+		<div className="facilities-div">
 			<h2 className="onas-heading">Hotel u Brány</h2>
 			<h2 className="onas-subheading">Trnava</h2>
 			<p className="onas-p">Hotel u Brány sa nachádza v Trnave a ponúka reštauráciu a bezplatné Wi-Fi. Súčasťou každej izby je balkón. V ubytovaní podávajú raňajky formou bufetu.Bratislava je vzdialená 45 km a Piešťany 28 km od ubytovania. Najbližšie letisko je Letisko Piešťany, ktoré sa nachádza 32 km od Hotela u Brány.</p>

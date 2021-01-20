@@ -9,7 +9,7 @@ const parkinnbyradissondanube = () => {
 			<title>Park Inn by Radisson Danube</title>
             <meta name="description" content="Jeden z našich favoritov v destinácii Bratislava. Hotel Park Inn by Radisson Danube Bratislava je úplne nové zariadenie situované v historickom centre mesta."></meta>
 		</Head>
-		<div className="onas-div">
+		<div className="facilities-div">
 			<h2 className="onas-heading">Park Inn by Radisson Danube</h2>
 			<h2 className="onas-subheading">Bratislava</h2>
 			<p className="onas-p">Jeden z našich favoritov v destinácii Bratislava. Hotel Park Inn by Radisson Danube Bratislava je úplne nové zariadenie situované v historickom centre mesta v blízkosti Bratislavského hradu a pri rieke Dunaj.Vďaka dobrému dopravnému spojeniu a mnohým prepravným možnostiam sa z hotela jednoducho dostanete na blízke letiská vo Viedni alebo v Budapešti, a to bez ohľadu na to, či prichádzate ako turisti alebo za prácou.Hotel ponúka konferenčné priestory a sály na podujatia s rozlohou 471 m², ktoré možno rozdeliť na sekcie vhodné na semináre, workshopy a menšie skupinové stretnutia.V tomto modernom ubytovaní máte k dispozícii niektorú z 240 izieb. V každej z nich na vás čaká moderné vybavenie, ako je napríklad bezplatné Wi-Fi pripojenie na internet, vysokorýchlostný internet, trezor a individuálne nastaviteľná klimatizácia. Na chutné pokrmy môžete zájsť do hotelovej reštaurácie, v ktorej sa podávajú kulinárske pochúťky.</p>

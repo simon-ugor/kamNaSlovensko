@@ -9,7 +9,7 @@ const najlepsieHotelyvZiline = () => {
                 <title>Najlepšie hotely v Žiline</title>
                 <meta name="description" content="Plánujete cestu do Žiliny? Prečítajte si tento článok a dozviete sa základné informácie o Žiline a aké sú najlepšie hotely v Žiline."></meta>
             </Head>
-			<div className="onas-div">
+			<div className="facilities-div">
 				<h2 className="onas-heading">Najlepšie hotely v Žiline</h2>
 				<p className="onas-p">Plánujete cestu do Žiliny a neviete kde sa ubytovať? Zistite ktoré sú najlepšie hotely v Žiline. Poskytujeme výber tých najlepších hotelov v Žiline, stačí kliknúť</p>
 				<Link href="/najlepsie-hotely-na-slovensku"><p className="link-footer-naspat">sem</p></Link>

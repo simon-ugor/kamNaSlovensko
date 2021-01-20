@@ -9,7 +9,7 @@ const kongreshotelroca = () => {
 			<title>Kongres Hotel Roca</title>
             <meta name="description" content="Tento 3-hviezdičkový hotel sa nachádza v hlavnej obchodnej štvrti v Košiciach. Ponúka pokrmy medzinárodnej kuchyne, klimatizované izby s bezplatným Wi-Fi pripojením na internet a recepciu s nepretržitou prevádzkou."></meta>
 		</Head>
-		<div className="onas-div">
+		<div className="facilities-div">
 			<h2 className="onas-heading">Kongres Hotel Roca</h2>
 			<h2 className="onas-subheading">Košice</h2>
 			<p className="onas-p">Tento 3-hviezdičkový hotel sa nachádza v hlavnej obchodnej štvrti v Košiciach. Ponúka pokrmy medzinárodnej kuchyne, klimatizované izby s bezplatným Wi-Fi pripojením na internet a recepciu s nepretržitou prevádzkou. Na mieste je k dispozícii súkromné parkovisko.Štýlové izby a suity nefajčiarskeho hotela Kongres Roca majú TV s plochou obrazovkou, pracovný stôl a trezor. Ich súčasťou je aj moderná mramorová kúpeľňa.V elegantnej reštaurácii hotela Roca sa podávajú sezónne pokrmy. Každé ráno je tu pre vás pripravený kompletný raňajkový bufet. Lobby bar je otvorený nepretržite.Historické centrum Košíc je od hotela Roca vzdialené 1,5 km. Personál recepcie vám na požiadanie zabezpečí transfery kyvadlovou dopravou.</p>

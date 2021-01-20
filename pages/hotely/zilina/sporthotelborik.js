@@ -9,7 +9,7 @@ const sporthotelborik = () => {
 			<title>Šport Hotel Bôrik</title>
             <meta name="description" content="V rodinou prevádzkovanom hoteli Šport Bôrik sú vám k dispozícii kúpeľné centrum s vírivkou, sauna, masáže, bar, reštaurácia a ubytovanie v izbách s bezplatným Wi-Fi pripojením na internet a káblovou TV."></meta>
 		</Head>
-		<div className="onas-div">
+		<div className="facilities-div">
 			<h2 className="onas-heading">Šport Hotel Bôrik</h2>
 			<h2 className="onas-subheading">Žilina</h2>
 			<p className="onas-p">V rodinou prevádzkovanom hoteli Šport Bôrik sú vám k dispozícii kúpeľné centrum s vírivkou, sauna, masáže, bar, reštaurácia a ubytovanie v izbách s bezplatným Wi-Fi pripojením na internet a káblovou TV. Medzi športové zariadenia patria 4 squashové kurty a volejbalová hala.V hotelovom Slender Centre si môžete vybrať z ponuky procedúr na formovanie postavy. Blízky park Bôrik je ideálny na beh alebo prechádzky.Vo všetkých hotelových izbách sa nachádza časť s posedením. V niektorých izbách je vlastná kúpeľňa so sprchovacím kútom, v iných vstup do spoločnej kúpeľne a oddelených toaliet pre dámy a pánov.V reštaurácii si môžete vychutnať pokrmy slovenskej a medzinárodnej kuchyne a grilované špeciality. V letných mesiacoch môžete stolovať na terase.Na mieste môžete využiť bezplatné parkovisko. Centrum Žiliny, autobusová a železničná stanica sú vzdialené 1,5 km. Hrad Strečno sa nachádza 7 km od hotela.</p>

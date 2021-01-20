@@ -9,7 +9,7 @@ const apollohotel = () => {
 			<title>Apollo Hotel</title>
             <meta name="description" content="Jeden z bestsellerov v Bratislave. Hotel Apollo sa nachádza medzi Starým Mestom a bratislavskou obchodnou štvrťou."></meta>
 		</Head>
-		<div className="onas-div">
+		<div className="facilities-div">
 			<h2 className="onas-heading"> Apollo Hotel </h2>
 			<h2 className="onas-subheading">Bratislava</h2>
 			<p className="onas-p">Jeden z bestsellerov v Bratislave. Hotel Apollo sa nachádza medzi Starým Mestom a bratislavskou obchodnou štvrťou, 1,5 km od novej budovy Slovenského národného divadla. Ponúka vám gurmánsku reštauráciu. Všetky izby boli zrenovované v rokoch 2016, 2017 a 2018 a sú vybavené bezplatným Wi-Fi pripojením na internet. Do nákupného centra Eurovea a k Dunaju sa pešo dostanete za 15 minút.Všetky izby sú klimatizované a vybavené satelitnou TV s medzinárodnými a prémiovými programami, minibarom a k dispozícii máte aj bezplatnú vodu vo fľašiach a príslušenstvo na prípravu čaju a kávy. Platené TV programy môžete sledovať bezplatne. Platené súkromné parkovanie je možné priamo pred hotelom.V lobby bare a na letnej terase si môžete vybrať z bohatej ponuky špeciálnych druhov kávy a miešaných nápojov. Reštaurácia St. Hubert je známa svojou medzinárodnou kuchyňou a tradičnými špecialitami z diviny.Relaxovať môžete v hotelovej soľnej jaskyni a fitnescentre, do ktorých máte bezplatný prístup. Za príplatok môžete navštíviť fínsku saunu.Hotel je ľahko dostupný zo všetkých diaľnic. Do centra mesta sa dostanete trolejbusom za 10 minút alebo pešo za 20 minút. Autobusová stanica Mlynské Nivy je vzdialená 800 metrov, hlavná železničná stanica 2,5 km. Letisko M. R. Štefánika Bratislava je situované vo vzdialenosti 8 km a letisko Viedeň 50 km.</p>

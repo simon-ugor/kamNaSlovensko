@@ -9,7 +9,7 @@ const hotelgrand = () => {
 			<title>Hotel Grand</title>
             <meta name="description" content="Jeden z našich favoritov v destinácii Žilina. Hotel Grand sa nachádza v pešej zóne priamo v historickom centre Žiliny."></meta>
 		</Head>
-		<div className="onas-div">
+		<div className="facilities-div">
 			<h2 className="onas-heading">Hotel Grand</h2>
 			<h2 className="onas-subheading">Žilina</h2>
 			<p className="onas-p">Jeden z našich favoritov v destinácii Žilina. Hotel Grand sa nachádza v pešej zóne priamo v historickom centre Žiliny. Ponúka moderné wellness centrum a bezplatné Wi-Fi pripojenie na internet v celom hoteli.Všetky izby majú vlastnú kúpeľňu a káblovú TV. Niektoré sú vybavené vírivkou a klimatizáciou.Reštaurácia pripravuje slovenské špeciality i jedlá medzinárodnej kuchyne. Kaviareň na prízemí ponúka široký sortiment nápojov.V okolí hotela Grand nájdete množstvo obchodíkov, reštaurácií, kaviarní a barov s terasami.</p>

@@ -9,7 +9,7 @@ const elisabetholdtown = () => {
 			<title>Elisabeth Old Town</title>
             <meta name="description" content="Jeden z našich favoritov v destinácii Bratislava. Ubytovanie Elisabeth Old Town sa nachádza v bezprostrednej blízkosti centra Bratislavy."></meta>
 		</Head>
-		<div className="onas-div">
+		<div className="facilities-div">
 			<h2 className="onas-heading">Elisabeth Old Town</h2>
 			<h2 className="onas-subheading">Bratislava</h2>
 			<p className="onas-p">Jeden z našich favoritov v destinácii Bratislava. Ubytovanie Elisabeth Old Town sa nachádza v bezprostrednej blízkosti centra Bratislavy a len pár metrov od Modrého kostolíka. Dostupné je bezplatné Wi-Fi.Každá izba ponúka satelitnú TV s plochou obrazovkou, rýchlovarnú kanvicu, príslušenstvo na prípravu kávy/čaju a súkromnú kúpeľňu.Na mieste sa podávajú raňajky so sebou.Vyhliadková plošina UFO sa nachádza 1,3 km a Bratislavský hrad 1,4 km od hotela Elisabeth Old Town. Letisko Bratislava je situované vo vzdialenosti 7 km.</p>

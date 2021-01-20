@@ -9,7 +9,7 @@ const hoteldomtechniky = () => {
 			<title>Hotel Dom techniky</title>
             <meta name="description" content="Hotel Dom techniky je situovaný v Žiline a naskytá sa z neho výhľad na hory. Má bezplatné Wi-Fi pripojenie na internet, spoločnú kuchyňu a 24-hodinovú recepciu."></meta>
 		</Head>
-		<div className="onas-div">
+		<div className="facilities-div">
 			<h2 className="onas-heading">Hotel Dom techniky</h2>
 			<h2 className="onas-subheading">Žilina</h2>
 			<p className="onas-p">Hotel Dom techniky je situovaný v Žiline a naskytá sa z neho výhľad na hory. Má bezplatné Wi-Fi pripojenie na internet, spoločnú kuchyňu a 24-hodinovú recepciu. Priamo na mieste máte k dispozícii bezplatné parkovisko.Všetky izby majú TV, posedenie a kúpeľňu so sprchovacím kútom.Hostia v hoteli Dom techniky môžu nakúpiť potraviny v supermarkete vzdialenom 200 metrov od hotela. Najbližšia reštaurácia sa nachádza menej než 100 metrov od hotela.K dispozícii je bazén a športová hala vo vzdialenosti 250 metrov. Hrad Budatín je vzdialený 4,8 km. Fabrika automobilov Kia Motors je vzdialená 6 km.</p>

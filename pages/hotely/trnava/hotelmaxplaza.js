@@ -9,7 +9,7 @@ const hotelmaxplaza = () => {
 			<title>Hotel MAXPLAZA</title>
             <meta name="description" content="Jeden z našich favoritov v destinácii Trnava. Hotel MAXPLAZA sa nachádza v centre Trnavy, 400 metrov od katedrály Jána Krstiteľa a 450 metrov od Trojičného námestia."></meta>
 		</Head>
-		<div className="onas-div">
+		<div className="facilities-div">
 			<h2 className="onas-heading">Hotel MAXPLAZA</h2>
 			<h2 className="onas-subheading">Trnava</h2>
 			<p className="onas-p">Jeden z našich favoritov v destinácii Trnava. Hotel MAXPLAZA sa nachádza v centre Trnavy, 400 metrov od katedrály Jána Krstiteľa a 450 metrov od Trojičného námestia. V hotelovej reštaurácii sa podávajú jedlá kórejskej, japonskej a slovenskej kuchyne. K dispozícii je bezplatné WiFi.Všetky ubytovacie jednotky sú klimatizované. Súčasťou ich vybavenia je satelitná TV s plochou obrazovkou a platenými kanálmi, minibar a chladnička. V kúpeľni s vaňou alebo sprchovacím kútom je k dispozícii sušič vlasov, župany, papuče a toaletné potreby zdarma. V apartmáne sa takisto nachádza kuchynka a jedálenský kút.Hotelový bar a recepcia sú otvorené 24 hodín denne. Hostia môžu využiť konferenčné priestory, zľavy na masáže a služby organizácie výletov.Na mieste je možné využívať bezplatné parkovisko. Letisko Bratislava je vzdialené 82 km od ubytovania.</p>

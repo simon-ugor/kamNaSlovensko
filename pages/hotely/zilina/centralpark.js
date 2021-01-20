@@ -9,7 +9,7 @@ const centralpark = () => {
 			<title>Central Park</title>
             <meta name="description" content="Jeden z bestsellerov v Žiline. Penzión Central Park situovaný v centre Žiliny má vlastné wellness centrum s krytým bazénom, parným kúpeľom a fínskou saunou."></meta>
 		</Head>
-		<div className="onas-div">
+		<div className="facilities-div">
 			<h2 className="onas-heading">Central Park</h2>
 			<h2 className="onas-subheading">Žilina</h2>
 			<p className="onas-p">Jeden z bestsellerov v Žiline. Penzión Central Park situovaný v centre Žiliny má vlastné wellness centrum s krytým bazénom, parným kúpeľom a fínskou saunou. Všetky klimatizované izby penziónu majú vlastnú kúpeľňu, satelitnú LCD TV a k dispozícii vám je bezplatné Wi-Fi pripojenie na internet.V reštaurácii penziónu sa podávajú pokrmy slovenskej a českej kuchyne, ako aj medzinárodné špeciality. K dispozícii vám je aj salónik s otvoreným kozubom, zimná záhrada s podlahovým kúrením a detské ihrisko.Zo žilinskej železničnej stanice, ktorá je od penziónu vzdialená len 5 minút chôdze, premáva priamy vlak do Bratislavy. Žilinské letisko s pravidelnými odletmi do Prahy a späť sa nachádza len 4,5 km od penziónu.</p>

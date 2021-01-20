@@ -9,7 +9,7 @@ const najlepsieHotelyvKosiciach = () => {
                 <title>Najlepšie hotely v Košiciach</title>
                 <meta name="description" content="Ak je cesta do Košíc súčasť Vašich plánov, prečítajte si tento článok a dozviete sa základné informácie o Košiciach a aké sú najlepšie hotely v Košiciach."></meta>
             </Head>
-			<div className="onas-div">
+			<div className="facilities-div">
 				<h2 className="onas-heading">Najlepšie hotely v Košiciach</h2>
 				<p className="onas-p">Plánujete cestu do Koších a neviete kde sa ubytovať? Zistite ktoré sú najlepšie hotely v Košiciach. Poskytujeme výber tých najlepších hotelov v Košiciach, stačí kliknúť</p>
 				<Link href="/najlepsie-hotely-na-slovensku"><p className="link-footer-naspat">sem</p></Link>

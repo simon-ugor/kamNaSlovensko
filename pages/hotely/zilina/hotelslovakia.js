@@ -9,7 +9,7 @@ const hotelslovakia = () => {
 			<title>Hotel Slovakia</title>
             <meta name="description" content="Hotel Slovakia sa nachádza priamo v historickom centre Žiliny, pár krokov od Mariánskeho námestia. Ponúka aj herňu."></meta>
 		</Head>
-		<div className="onas-div">
+		<div className="facilities-div">
 			<h2 className="onas-heading">Hotel Slovakia</h2>
 			<h2 className="onas-subheading">Žilina</h2>
 			<p className="onas-p">Hotel Slovakia sa nachádza priamo v historickom centre Žiliny, pár krokov od Mariánskeho námestia. Ponúka aj herňu. Veľká konferenčná sála je k dispozícii za príplatok a bezdrôtové pripojenie na internet je dostupné vo všetkých priestoroch.Hotel Slovakia je vzdialený 20 metrov od nákupného a zábavného centra Aupark.</p>

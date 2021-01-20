@@ -9,7 +9,7 @@ const hradbova = () => {
 			<title>Hradbová</title>
             <meta name="description" content="Penzión Hradbová sa nachádza v historicky najstaršej časti kráľovského mesta Košice. Ponúka moderne zariadené wellness centrum a očarujúcu záhradu."></meta>
 		</Head>
-		<div className="onas-div">
+		<div className="facilities-div">
 			<h2 className="onas-heading">Hradbová</h2>
 			<h2 className="onas-subheading">Košice</h2>
 			<p className="onas-p">Penzión Hradbová sa nachádza v historicky najstaršej časti kráľovského mesta Košice. Ponúka moderne zariadené wellness centrum a očarujúcu záhradu. Vo wellness centre nájdete vírivku, fínsku a parnú saunu i suchú reflexnú zónu. Ideálnym miestom na oddych je aj park s jazierkom.V každej ubytovacej jednotke penziónu Hradbová môžete využívať chladničku, rýchlovarnú kanvicu a príslušenstvo na prípravu kávy a čaju. Na požiadanie máte k dispozícii mikrovlnnú rúru.Ráno je pre vás v kaviarni pripravený raňajkový bufet. V kaviarni si okrem raňajok môžete vychutnať široký sortiment rôznych druhov káv, ako aj miešaných alkoholických a nealkoholických nápojov.</p>
