@@ -86,6 +86,7 @@
     flex-direction: column;
     text-align: center;
     align-items: center;
+    height: 65vh;
 }
 
 .homepage-button {
@@ -115,7 +116,7 @@
 
 .facilities-div {
     width: 100vw;
-    height: 77vh;
+    height: 65vh;
     overflow: scroll;
     text-align: center;
 }
