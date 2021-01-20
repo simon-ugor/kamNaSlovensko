@@ -4,16 +4,16 @@ const Footer = () => {
     return (
         <div className="main-footer-div">
             <div className="footer-div">
-                <Link href="o-nas"><p className="link-footer">O nás</p></Link>
-                <Link href="kontakt"><p className="link-footer">Kontakt</p></Link>
+                <Link href="o-nas"><a className="link-footer">O nás</a></Link>
+                <Link href="kontakt"><a className="link-footer">Kontakt</a></Link>
             </div>
             <div className="footer-div">
-                <Link href="/blog-o-slovensku"><p className="link-footer">Blog</p></Link>
-                <Link href="o-slovensku"><p className="link-footer">O Slovensku</p></Link>
+                <Link href="/blog-o-slovensku"><a className="link-footer">Blog</a></Link>
+                <Link href="o-slovensku"><a className="link-footer">O Slovensku</a></Link>
             </div>
             <div className="footer-div">
-                <Link href="/"><p className="link-footer">Podmineky</p></Link>
-                <Link href="/"><p className="link-footer">Osobné údaje</p></Link>
+                <Link href="/"><a className="link-footer">Podmineky</a></Link>
+                <Link href="/"><a className="link-footer">Osobné údaje</a></Link>
             </div>
         </div>
     )
