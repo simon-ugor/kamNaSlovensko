@@ -16,6 +16,7 @@ const slovenskoBlog = () => {
                 <BlogFacility link="blog/najlepsie-hotely-v-ziline" heading="Najlepšie hotely v Žiline" city="Plánujete cestu do Žiliny a neviete kde sa ubytovať? Zistite ktoré sú najlepšie hotely v Žiline" />
                 <BlogFacility link="blog/najlepsie-hotely-v-kosiciach" heading="Najlepšie hotely v Košiciach" city="Cestujete do Košíc a hľadáte vhodný hotel? Pomocou našej stránky nájdete najlepšie hotely v Košiciach" />
                 <BlogFacility link="blog/najlepsie-hotely-v-nitre" heading="Najlepšie hotely v Nitre" city="Cestujete do Nitry a hľadáte vhodný hotel? Pomocou našej stránky nájdete najlepšie hotely v Nitre" />
+                <BlogFacility link="blog/je-na-slovensku-lockdown" heading="Je na Slovensku lockdown?" city="Je na Slovensku lockdown? Zistite ako prebieha COVID-19 na Slovensku a pozrite si prehľad zákazov." />
             </div>
         </Layout>
     )
